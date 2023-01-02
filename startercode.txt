@@ -1,0 +1,32 @@
+//Using codeblocks as the platform to code.
+
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main (void) {
+
+printf ("Hello World\n");
+
+return 0;}
+
+/*
+printf is a command used to print something on the screen printf is used like such
+printf ("ENTER CODE");
+the punctuations are really important in c using them wrong will cause the program to not work at all
+For example-
+printf (Hello World); This program will not function because there is no quotation mark.
+You can see that I have used \n at the end of the sentence I wrote.
+\n allows us to add a new line at the end of the statement.
+In C you must use library names on top i used some basic ones such as #include <stdio.h>, #include <string.h> and more
+After that you should use
+int main ()
+ {
+CODE CODE CODE
+Now with this you can write your own C programming!!
+return 0;}
+*/
+
+//You can use 1 library name on top but I used like 4 because it looks cooler (THERE ARE A LOT OF LIBRARY NAMES THEY GIVE US SPECIAL FEATURES USE AS MANY AS YOU WANT!)
+
